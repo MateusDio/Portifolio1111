@@ -82,6 +82,14 @@ p {
 
 }
 
+#Aquilo img{
+    width: 500px;
+    height: 300px;
+
+
+
+}
+
 #Jogo a {
     display: inline-block;
     background-color: #ffffff;
@@ -99,7 +107,7 @@ p {
 }
 
 #Aquilo {
-    background-image: url('img/programming.jpg');
+    background-image: url('./img/codigo-programacao-Ali-Shah-Lakhani-Unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -116,8 +124,8 @@ p {
 }
 
 #Links img {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     transition: transform 0.3s ease;
 }
 
